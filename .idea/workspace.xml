@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fffbf185-f6a3-470f-894a-5653fb6016f7" name="Default Changelist" comment="" />
+    <list default="true" id="fffbf185-f6a3-470f-894a-5653fb6016f7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/WebScrapy2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webScrap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ENV_Manager.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ENV_Manager.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aplicacion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aplicacion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aplicacion_ui.py" beforeDir="false" afterPath="$PROJECT_DIR$/aplicacion_ui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aplicacion_ui.ui" beforeDir="false" afterPath="$PROJECT_DIR$/aplicacion_ui.ui" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +23,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WmU1f7YEd3T1pbMaNsz7KDzwtz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,7 +44,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Aplicacion">
+  <component name="RunManager" selected="Python.WebScrapy2">
     <configuration name="Aplicacion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ENV_Manager" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -46,6 +59,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aplicacion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="WebScrapy2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ENV_Manager" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WebScrapy2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="simpleweb" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ENV_Manager" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,7 +124,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/simpleweb.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -98,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ventana" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="webScrap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ENV_Manager" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,7 +146,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ventana.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webScrap.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ventana_ui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="webscrap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ENV_Manager" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,29 +168,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ventana_ui.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ventanaui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ENV_Manager" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="D:\Anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ventanaui.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webscrap.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.WebScrapy2" />
+        <item itemvalue="Python.simpleweb" />
+        <item itemvalue="Python.webScrap" />
+        <item itemvalue="Python.webscrap" />
         <item itemvalue="Python.Aplicacion" />
-        <item itemvalue="Python.ventana" />
-        <item itemvalue="Python.ventanaui" />
-        <item itemvalue="Python.file" />
-        <item itemvalue="Python.ventana_ui" />
       </list>
     </recent_temporary>
   </component>
@@ -190,6 +203,11 @@
       <workItem from="1579812695665" duration="1331000" />
       <workItem from="1579815900779" duration="1100000" />
       <workItem from="1579836714209" duration="9332000" />
+      <workItem from="1579846132926" duration="1990000" />
+      <workItem from="1579853158992" duration="677000" />
+      <workItem from="1579881346029" duration="3658000" />
+      <workItem from="1579885277221" duration="81000" />
+      <workItem from="1579885727283" duration="1529000" />
     </task>
     <servers />
   </component>
@@ -197,53 +215,61 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="71" key="#Inspections" timestamp="1579840625539">
+    <state x="361" y="71" key="#Inspections" timestamp="1579882998269">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="71" key="#Inspections/0.0.1536.824/-1280.0.1280.984@0.0.1536.824" timestamp="1579840625539" />
-    <state width="746" height="261" key="GridCell.Tab.0.bottom" timestamp="1579846093875">
+    <state x="361" y="71" key="#Inspections/0.0.1536.824/-1280.0.1280.984@0.0.1536.824" timestamp="1579882998269" />
+    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1579882748777">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824/-1280.0.1280.984@0.0.1536.824" timestamp="1579846093875" />
-    <state width="746" height="261" key="GridCell.Tab.0.center" timestamp="1579846093875">
+    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824/-1280.0.1280.984@0.0.1536.824" timestamp="1579882748777" />
+    <state width="746" height="178" key="GridCell.Tab.0.bottom" timestamp="1579888104664">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="261" key="GridCell.Tab.0.center/0.0.1536.824/-1280.0.1280.984@0.0.1536.824" timestamp="1579846093875" />
-    <state width="746" height="261" key="GridCell.Tab.0.left" timestamp="1579846093875">
+    <state width="746" height="178" key="GridCell.Tab.0.bottom/0.0.1536.824/-1280.0.1280.984@0.0.1536.824" timestamp="1579888104664" />
+    <state width="746" height="178" key="GridCell.Tab.0.center" timestamp="1579888104664">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="261" key="GridCell.Tab.0.left/0.0.1536.824/-1280.0.1280.984@0.0.1536.824" timestamp="1579846093875" />
-    <state width="746" height="261" key="GridCell.Tab.0.right" timestamp="1579846093875">
+    <state width="746" height="178" key="GridCell.Tab.0.center/0.0.1536.824/-1280.0.1280.984@0.0.1536.824" timestamp="1579888104664" />
+    <state width="746" height="178" key="GridCell.Tab.0.left" timestamp="1579888104664">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="261" key="GridCell.Tab.0.right/0.0.1536.824/-1280.0.1280.984@0.0.1536.824" timestamp="1579846093875" />
-    <state width="746" height="261" key="GridCell.Tab.1.bottom" timestamp="1579846093875">
+    <state width="746" height="178" key="GridCell.Tab.0.left/0.0.1536.824/-1280.0.1280.984@0.0.1536.824" timestamp="1579888104664" />
+    <state width="746" height="178" key="GridCell.Tab.0.right" timestamp="1579888104664">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/-1280.0.1280.984@0.0.1536.824" timestamp="1579846093875" />
-    <state width="746" height="261" key="GridCell.Tab.1.center" timestamp="1579846093875">
+    <state width="746" height="178" key="GridCell.Tab.0.right/0.0.1536.824/-1280.0.1280.984@0.0.1536.824" timestamp="1579888104664" />
+    <state width="746" height="261" key="GridCell.Tab.1.bottom" timestamp="1579885008796">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="261" key="GridCell.Tab.1.center/0.0.1536.824/-1280.0.1280.984@0.0.1536.824" timestamp="1579846093875" />
-    <state width="746" height="261" key="GridCell.Tab.1.left" timestamp="1579846093875">
+    <state width="746" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/-1280.0.1280.984@0.0.1536.824" timestamp="1579885008796" />
+    <state width="746" height="261" key="GridCell.Tab.1.center" timestamp="1579885008796">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="261" key="GridCell.Tab.1.left/0.0.1536.824/-1280.0.1280.984@0.0.1536.824" timestamp="1579846093875" />
-    <state width="746" height="261" key="GridCell.Tab.1.right" timestamp="1579846093875">
+    <state width="746" height="261" key="GridCell.Tab.1.center/0.0.1536.824/-1280.0.1280.984@0.0.1536.824" timestamp="1579885008796" />
+    <state width="746" height="261" key="GridCell.Tab.1.left" timestamp="1579885008796">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="261" key="GridCell.Tab.1.right/0.0.1536.824/-1280.0.1280.984@0.0.1536.824" timestamp="1579846093875" />
-    <state x="277" y="55" key="SettingsEditor" timestamp="1579756457848">
+    <state width="746" height="261" key="GridCell.Tab.1.left/0.0.1536.824/-1280.0.1280.984@0.0.1536.824" timestamp="1579885008796" />
+    <state width="746" height="261" key="GridCell.Tab.1.right" timestamp="1579885008796">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="55" key="SettingsEditor/0.0.1536.824/-1280.0.1280.984@0.0.1536.824" timestamp="1579756457848" />
+    <state width="746" height="261" key="GridCell.Tab.1.right/0.0.1536.824/-1280.0.1280.984@0.0.1536.824" timestamp="1579885008796" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1579888101683">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824/-1280.0.1280.984@0.0.1536.824" timestamp="1579888101683" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/QTPruebas$ventanaui.coverage" NAME="ventanaui Coverage Results" MODIFIED="1579840327887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/QTPruebas$file.coverage" NAME="file Coverage Results" MODIFIED="1579839825881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ENV_Manager$WebScrapy2.coverage" NAME="WebScrapy2 Coverage Results" MODIFIED="1579887472521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ENV_Manager$webscrap.coverage" NAME="webscrap Coverage Results" MODIFIED="1579853602992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/QTPruebas$Aplicacion.coverage" NAME="Aplicacion Coverage Results" MODIFIED="1579845768645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ENV_Manager$Aplicacion.coverage" NAME="Aplicacion Coverage Results" MODIFIED="1579846148743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ENV_Manager$Aplicacion.coverage" NAME="Aplicacion Coverage Results" MODIFIED="1579848591732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ENV_Manager$simpleweb.coverage" NAME="simpleweb Coverage Results" MODIFIED="1579884864564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/QTPruebas$ventana_ui.coverage" NAME="ventana_ui Coverage Results" MODIFIED="1579754384148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ENV_Manager$webScrap.coverage" NAME="webScrap Coverage Results" MODIFIED="1579884288978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/QTPruebas$ventana.coverage" NAME="ventana Coverage Results" MODIFIED="1579841502818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
